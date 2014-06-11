@@ -22,6 +22,7 @@ progressBar.setMax(100);
 progressBar.setProgress(100);
 ```
 
+<div />
 ## Custom starting points
 
 ## Custom directions
