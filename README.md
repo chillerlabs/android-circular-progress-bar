@@ -10,6 +10,7 @@ We wanted a circular progress bar with a customizable starting point, direction,
 # Examples
 
 ## Beautiful gradients
+![Beautiful gradient](examples/images/beautiful.png)
 
 ## Custom starting points
 
